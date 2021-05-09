@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15512" started-at="2021-05-09T09:54:17 ICT" finished-at="2021-05-09T09:54:32 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15512" started-at="2021-05-09T09:54:17 ICT" finished-at="2021-05-09T09:54:32 ICT">
+      <class name="Selenium.Session11_Action">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Selenium.Session11_Action@1dfe2924]" name="browser" is-config="true" duration-ms="2228" started-at="2021-05-09T09:54:17 ICT" finished-at="2021-05-09T09:54:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="demo_action_1()[pri:0, instance:Selenium.Session11_Action@1dfe2924]" name="demo_action_1" duration-ms="6342" started-at="2021-05-09T09:54:19 ICT" finished-at="2021-05-09T09:54:25 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo_action_1 -->
+        <test-method status="PASS" signature="demo_action_2()[pri:0, instance:Selenium.Session11_Action@1dfe2924]" name="demo_action_2" duration-ms="3179" started-at="2021-05-09T09:54:25 ICT" finished-at="2021-05-09T09:54:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo_action_2 -->
+        <test-method status="PASS" signature="exercise_action_1()[pri:0, instance:Selenium.Session11_Action@1dfe2924]" name="exercise_action_1" duration-ms="3624" started-at="2021-05-09T09:54:29 ICT" finished-at="2021-05-09T09:54:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exercise_action_1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Selenium.Session11_Action@1dfe2924]" name="quit" is-config="true" duration-ms="108" started-at="2021-05-09T09:54:32 ICT" finished-at="2021-05-09T09:54:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Selenium.Session11_Action -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
